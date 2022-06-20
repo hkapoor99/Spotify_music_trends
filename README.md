@@ -1,7 +1,7 @@
 # Spotify_music_trends
 
 
-Link to blog - https://www.kaggle.com/code/hkapoor/music-trends-analysis-by-location
+Link to blog - https://medium.com/@harshitkapoor_73807/what-are-you-listening-on-spotify-509cffb93487
 
 ![Spotify_App_Logo](https://user-images.githubusercontent.com/37941871/170857159-4b4b76d4-693e-4d0b-a577-9e1bb1f9d029.svg)
 
